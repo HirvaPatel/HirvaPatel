@@ -1,4 +1,6 @@
-<h2> Hey there! I'm Hirva.</h2>
+<h2> Hey there!
+   <img src="https://github.com/HirvaPatel/HirvaPatel/blob/master/Hi.gif" width="29px">
+  I'm Hirva.</h2>
 
 <h3> 👩🏻‍💻 &nbsp;About Me </h3>
 
