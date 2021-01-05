@@ -1,6 +1,6 @@
 <h2> Hey there! I'm Hirva.</h2>
 
-<h3> 👩🏻🏻‍💻 &nbsp;About Me </h3>
+<h3> 👩🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Pursued Bachelors of Engineering in Computer Engineering at Gujarat Technological University.
@@ -36,6 +36,6 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/hirva-patel7/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/hirva-patel7/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Hirva%20Patel-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:hirvap08@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-hirvap08@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
