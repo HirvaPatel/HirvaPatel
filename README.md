@@ -1,4 +1,5 @@
-<h2> Hey there! ![](Hi.gif)</h2>
+<h2> Hey there!</h2> 
+  ![](Hi.gif)
 
 <h3> 👩🏻‍💻 &nbsp;About Me </h3>
 
