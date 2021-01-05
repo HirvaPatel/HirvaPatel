@@ -1,4 +1,5 @@
-<h2> Hey there!<img src="https://github.com/HirvaPatel/HirvaPatel/blob/master/Hi.gif" width="29px"></h2> 
+<h1> Hey there! <img src="https://github.com/HirvaPatel/HirvaPatel/blob/master/Hi.gif" width="29px"> </h1>
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=HirvaPatel alt=HirvaPatel> </p>
 
 <h3> 👩🏻‍💻 &nbsp;About Me </h3>
 
