@@ -1,5 +1,4 @@
 <h1> Hey there! I'm Hirva </h1>
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=HirvaPatel alt=HirvaPatel> </p>
 
 <h3> 👩🏻‍💻 &nbsp;About Me </h3>
 
