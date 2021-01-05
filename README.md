@@ -1,4 +1,4 @@
-<h2> Hey there!<img src="https://github.com/HirvaPatel/HirvaPatel/master/Hi.gif" width="29px"></h2> 
+<h2> Hey there!<img src="https://github.com/HirvaPatel/HirvaPatel/blob/master/Hi.gif" width="29px"></h2> 
 
 <h3> 👩🏻‍💻 &nbsp;About Me </h3>
 
