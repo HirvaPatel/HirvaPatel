@@ -3,8 +3,9 @@
 <h3> 👩🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🎓 &nbsp; Pursuing Masters of Computer Science at Dalhousie University.
 - 🎓 &nbsp; Pursued Bachelors of Engineering in Computer Engineering at Gujarat Technological University.
-- 💼 &nbsp; Working as a System Engineer at Infosys Private Limited.
+- 💼 &nbsp; Worked for 2 years as a System Engineer at Infosys Private Limited.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
